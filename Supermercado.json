@@ -1,0 +1,290 @@
+{
+  "Categorias" : {
+    "Bebidas" : {
+      "Bebidas" : [ {
+        "Descrição" : "Sumos Compal vários sabores",
+        "Imagem" : "https://i.imgur.com/cfWRYAu_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Compal Sabores",
+        "Preço" : 1.69,
+        "Tamanho" : [ {
+          "Nome" : "1L",
+          "Preço" : 1.69
+        }, {
+          "Nome" : "2L",
+          "Preço" : 2.0
+        } ],
+        "id" : "compal_01"
+      }, {
+        "Descrição" : "Cerveja Super Bock vários tipos",
+        "Imagem" : "https://i.imgur.com/oz0SP1d.jpg",
+        "Nome" : "Cervejas SuperBock",
+        "Preço" : 0.54,
+        "Tamanho" : [ {
+          "Nome" : "1L",
+          "Preço" : 1.5
+        }, {
+          "Nome" : "2L",
+          "Preço" : 3.2
+        } ],
+        "id" : "cerveja_02"
+      }, {
+        "Descrição" : "Aguas Penacova vários tamanhos",
+        "Imagem" : "https://i.imgur.com/wSqYIUP_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Aguas Penacova",
+        "Preço" : 0.2,
+        "Tamanho" : [ {
+          "Nome" : "1.5L",
+          "Preço" : 0.35
+        }, {
+          "Nome" : "5L",
+          "Preço" : 0.8
+        } ],
+        "id" : "agua_03"
+      } ],
+      "Imagem" : "https://i.imgur.com/oz0SP1d_d.webp?maxwidth=728&fidelity=grand",
+      "Nome" : "Bebidas"
+    },
+    "Carne" : {
+      "Carne" : [ {
+        "Descrição" : "Carne de vaca proveniente de Portugal. Compre o que é nacional",
+        "Imagem" : "https://i.imgur.com/lmN9Wjg_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Carne de vaca",
+        "Preço" : 4.79,
+        "Tamanho" : [ {
+          "Nome" : "1kg",
+          "Preço" : 4.79
+        }, {
+          "Nome" : "3kg",
+          "Preço" : 12.5
+        } ],
+        "id" : "carneVaca_01"
+      }, {
+        "Descrição" : "Carne de Porco proveniente de Portugal. Compre o que é nacional",
+        "Imagem" : "https://i.imgur.com/Li8FFTd_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Carne de Porco",
+        "Preço" : 4.3,
+        "Tamanho" : [ {
+          "Nome" : "1kg",
+          "Preço" : 4.3
+        }, {
+          "Nome" : "3kg",
+          "Preço" : 13.1
+        } ],
+        "id" : "carnePorco_02"
+      }, {
+        "Descrição" : "Carne de Peru proveniente de Portugal. Compre o que é nacional",
+        "Imagem" : "https://i.imgur.com/CowC9yV_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Carne de Peru",
+        "Preço" : 2.78,
+        "Tamanho" : [ {
+          "Nome" : "Embalagem 400g",
+          "Preço" : 3.99
+        }, {
+          "Nome" : "1 kg",
+          "Preço" : 7.99
+        } ],
+        "id" : "carnePeru_03"
+      } ],
+      "Imagem" : "https://i.imgur.com/ERsYZ02_d.webp?maxwidth=728&fidelity=grand",
+      "Nome" : "Carnes"
+    },
+    "Enlatados" : {
+      "Enlatados" : [ {
+        "Descrição" : "Cenouras enlatadas com origem portuguesa",
+        "Imagem" : "https://i.imgur.com/9hiGY32_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Cenouras",
+        "Preço" : 1.1,
+        "id" : "cenouras_01"
+      }, {
+        "Descrição" : "Azeitonas espanholas sem caroço",
+        "Imagem" : "https://live.staticflickr.com/65535/48581054772_37201578e8_o.jpg",
+        "Nome" : "Azeitonas",
+        "Preço" : 2.2,
+        "Tamanho" : [ {
+          "Nome" : "300g",
+          "Preço" : 3.5
+        }, {
+          "Nome" : "500g",
+          "Preço" : 4.3
+        } ],
+        "id" : "azeitonas_02"
+      }, {
+        "Descrição" : "Ervilhas cozidas",
+        "Imagem" : "https://i.imgur.com/pCvFH7D_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Ervilhas",
+        "Preço" : 0.59,
+        "id" : "ervilhas_03"
+      } ],
+      "Imagem" : "https://i.imgur.com/M0lY8sb_d.webp?maxwidth=728&fidelity=grand",
+      "Nome" : "Enlatados"
+    },
+    "Frutas" : {
+      "Frutas" : [ {
+        "Descrição" : "Bananas madeirenses",
+        "Imagem" : "https://i.imgur.com/pL4ukmc_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Bananas",
+        "Preço" : 1.12,
+        "Tamanho" : [ {
+          "Nome" : "700g",
+          "Preço" : 1.12
+        }, {
+          "Nome" : "1kg",
+          "Preço" : 1.68
+        } ],
+        "id" : "bananas_01"
+      }, {
+        "Descrição" : "Laranjas algarvias",
+        "Imagem" : "https://i.imgur.com/p1FkKTC_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Laranjas",
+        "Preço" : 0.42,
+        "Tamanho" : [ {
+          "Nome" : "1 unidade",
+          "Preço" : 0.42
+        }, {
+          "Nome" : "1kg",
+          "Preço" : 1.4
+        } ],
+        "id" : "laranjas_02"
+      }, {
+        "Descrição" : "Maçãs granny smith calibre provenientes de França",
+        "Imagem" : "https://i.imgur.com/o2aQ88I_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Maçãs",
+        "Preço" : 0.7,
+        "Tamanho" : [ {
+          "Nome" : "1 unidade",
+          "Preço" : "0.7"
+        }, {
+          "Nome" : "1kg",
+          "Preço" : 2.7
+        } ],
+        "addon" : [ {
+          "Nome" : "Cheese",
+          "Preço" : 2.0
+        }, {
+          "Nome" : "Rice",
+          "Preço" : 2.0
+        } ],
+        "id" : "macas_03"
+      } ],
+      "Imagem" : "https://i.imgur.com/SQhaswl_d.webp?maxwidth=728&fidelity=grand",
+      "Nome" : "Frutas"
+    },
+    "Higiene" : {
+      "Higiene" : [ {
+        "Descrição" : "Desodorisantes Nivea ",
+        "Imagem" : "https://i.imgur.com/dpqtOv0_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Desodorisantes",
+        "Preço" : 1.99,
+        "Tamanho" : [ {
+          "Nome" : "100ml",
+          "Preço" : 1.99
+        }, {
+          "Nome" : "250ml",
+          "Preço" : 3.99
+        } ],
+        "id" : "desodorisante_01"
+      }, {
+        "Descrição" : "Cotonetes produzidos em Portugal",
+        "Imagem" : "https://i.imgur.com/zUMdayY_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Cotonetes",
+        "Preço" : 0.99,
+        "Tamanho" : [ {
+          "Nome" : "100 unidades",
+          "Preço" : 0.99
+        }, {
+          "Nome" : "200 unidades",
+          "Preço" : 1.79
+        } ],
+        "id" : "cotonetes_02"
+      }, {
+        "Descrição" : "Shampoo HS",
+        "Imagem" : "https://i.imgur.com/tboLkcf_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Shampoo",
+        "Preço" : 2.39,
+        "Tamanho" : [ {
+          "Nome" : "220ml",
+          "Preço" : 2.39
+        }, {
+          "Nome" : "500ml",
+          "Preço" : 5.5
+        } ],
+        "id" : "shampoo_03"
+      } ],
+      "Imagem" : "https://i.imgur.com/LZ0ipEV_d.webp?maxwidth=728&fidelity=grand",
+      "Nome" : "Higiene"
+    },
+    "Laticinios" : {
+      "Imagem" : "https://i.imgur.com/YBIE4Gi_d.webp?maxwidth=728&fidelity=grand",
+      "Laticinios" : [ {
+        "Descrição" : "Queijo de ovelha curado Serra da Estrela",
+        "Imagem" : "https://i.imgur.com/JoBsE1u_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Queijo",
+        "Preço" : 1.99,
+        "Tamanho" : [ {
+          "Nome" : "200g",
+          "Preço" : 1.99
+        }, {
+          "Nome" : "800g",
+          "Preço" : 7.2
+        } ],
+        "id" : "queijo_01"
+      }, {
+        "Descrição" : "Leite Gresso UHT Meio Gordo",
+        "Imagem" : "https://i.imgur.com/I0QpLza.jpeg",
+        "Nome" : "Leite",
+        "Preço" : 0.56,
+        "id" : "leite_02"
+      }, {
+        "Descrição" : "Manteiga Mimosa",
+        "Imagem" : "https://i.imgur.com/4dnfPGT_d.webp?maxwidth=728&fidelity=grand",
+        "Nome" : "Manteiga",
+        "Preço" : 5.0,
+        "Tamanho" : [ {
+          "Nome" : "250g",
+          "Preço" : 1.84
+        }, {
+          "Nome" : "350g",
+          "Preço" : 2.5
+        } ],
+        "id" : "manteiga_03"
+      } ],
+      "Nome" : "Laticinios"
+    }
+  },
+  "MaisProcurados" : {
+    "procurado_01" : {
+      "Imagem" : "https://i.imgur.com/I0QpLza.jpeg",
+      "Nome" : "Leite",
+      "artigo_id" : "leite_02",
+      "categoria_id" : "Laticinios"
+    },
+    "procurado_02" : {
+      "Imagem" : "https://i.imgur.com/oz0SP1d.jpg",
+      "Nome" : "Cerveja SuperBock",
+      "artigo_id" : "cerveja_02",
+      "categoria_id" : "Bebidas"
+    }
+  },
+  "MelhoresOfertas" : {
+    "Melhor_oferta_01" : {
+      "Imagem" : "https://i.imgur.com/pCvFH7D_d.webp?maxwidth=728&fidelity=grand",
+      "Nome" : "Ervilhas",
+      "artigo_id" : "ervilhas_03",
+      "categoria_id" : "Enlatados"
+    },
+    "Melhor_oferta_02" : {
+      "Imagem" : "https://i.imgur.com/dpqtOv0_d.webp?maxwidth=728&fidelity=grand",
+      "Nome" : "Desodorisantes",
+      "artigo_id" : "desodorisante_01",
+      "categoria_id" : "Higiene"
+    }
+  },
+  "Utilizadores" : {
+    "396695517652654" : {
+      "Nome" : "António Mendes",
+      "address" : "Santo Tirço 2235 ",
+      "phone" : "+84988353682",
+      "uid" : "396695517652654"
+    }
+  }
+}
